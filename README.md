@@ -60,8 +60,6 @@ Key technologies and features:
 - Build practical projects that solve real-world problems.
 - Contribute to open-source projects and collaborate with other developers.
 
-## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating and connecting with people in the technology community.
 
 **Thanks for visiting my profile!**
