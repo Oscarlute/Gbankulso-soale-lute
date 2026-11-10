@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Computer Science Graduate!
+*👋 Hi, I'm a Computer Science Graduate!*
 
 ### IT Support | Cybersecurity Enthusiast | Networking | Software Development
 
