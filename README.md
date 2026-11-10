@@ -15,24 +15,24 @@ Welcome to my GitHub profile! I'm passionate about Information Technology and it
 
 ## 🧰 Technical Skills & Interests
 
-**Programming & Development**
+*Programming & Development*
 - Python
 - Object-Oriented Programming
 - Desktop Application Development
 
-**IT Support & Systems**
+*IT Support & Systems*
 - Windows Operating Systems
 - Hardware and Software Troubleshooting
 - Computer Maintenance
 - System Installation and Configuration
 
-**Networking**
+*Networking
 - TCP/IP
 - LAN Configuration
 - Network Troubleshooting
 - Cisco Packet Tracer
 
-**Cybersecurity**
+*Cybersecurity*
 - Network Security
 - Cryptography
 - Secure File Transfer
